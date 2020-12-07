@@ -127,6 +127,7 @@ module.exports = {
         'Loading',
         'Message',
         'Modal*',
+        'FullScreenModal',
         'Notification',
         'Progress',
       ]),
